@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/TextMesh Pro.meta
 guid: f54d1bd14bd3ca042bd867b519fee8cc
+========
+guid: d997901349525834cbfad12e9ab497f8
+>>>>>>>> de2ebb0e0c721ea1e341c95ba36e9e9073b89bfb:Assets/Awan.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
